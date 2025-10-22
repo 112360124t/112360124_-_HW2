@@ -1,0 +1,14 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+public class Sample7
+{
+	public static void main(String[] args) throws IOException
+	{
+	int num;
+	num=3;
+    System.out.println("變數num的值是"+num);
+    System.out.println("學號:112360124");
+	
+	}
+}
